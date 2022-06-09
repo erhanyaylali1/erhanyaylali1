@@ -1,14 +1,14 @@
 ## Hi there 👋
 
 ``` typescript
-/* 
-  ABOUT ME
-  I am 24 years old, full stack developer. I am developing web applications, optimizing cloud operations. 
-  
-  - 🔭 I’m currently working on React JS
-  - 🌱 I’m currently learning Next JS
 
-*/
+ABOUT ME
+I am 24 years old, full stack developer. I am developing web applications, optimizing cloud operations. 
+  
+- 🔭 I’m currently working on React JS
+- 🌱 I’m currently learning Next JS
+
+
 
 interface IPerson {
   name: string;

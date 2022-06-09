@@ -8,21 +8,18 @@ I am 24 years old, full stack developer. I am developing web applications, optim
 - 🔭 I’m currently working on React JS
 - 🌱 I’m currently learning Next JS
 
-
-
-interface IPerson {
-  name: string;
-  age: number;
-  skills: string[];
-  languages: string[];
-}
-
-class Person implements IPerson {
-  name: "Erhan Yaylalı";
-  age: 24;
-  skills: ["Javascript", "React", "Node JS", "MySQL", "NoSQL", "AWS", "Google Cloud"];
-  languages: ["English C1 Level", "Turkish Native Speaker"]
-}
+My Skills:
+ - Javascript
+ - React 
+ - Node JS 
+ - MySQL 
+ - NoSQL 
+ - AWS
+ - Google Cloud
+ 
+ Languages:
+ - English, C1 Level
+ - Turkish, Native Language
 
 ```
 -------------------

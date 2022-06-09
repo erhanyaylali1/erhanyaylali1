@@ -1,11 +1,30 @@
 ## Hi there 👋
 
+``` typescript
+/* 
+  ABOUT ME
+  I am 24 years old, full stack developer. I am developing web applications, optimizing cloud operations. 
+  
+  - 🔭 I’m currently working on React JS
+  - 🌱 I’m currently learning Next JS
 
-I am 24 years old, full stack developer. I am developing web applications, optimizing cloud operations. 
+*/
 
+interface IPerson {
+  name: string;
+  age: number;
+  skills: string[];
+  languages: string[];
+}
 
-- 🔭 I’m currently working on React JS
-- 🌱 I’m currently learning Next JS
+class Person implements IPerson {
+  name: "Erhan Yaylalı";
+  age: 24;
+  skills: ["Javascript", "React", "Node JS", "MySQL", "NoSQL", "AWS", "Google Cloud"];
+  languages: ["English C1 Level", "Turkish Native Speaker"]
+}
+
+```
 -------------------
 ### My Github Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=erhanyaylali1&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/erhanyaylali1)

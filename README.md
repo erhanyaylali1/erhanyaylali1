@@ -30,8 +30,9 @@ My Skills:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erhanyaylali1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 -------------------
 ### Some of My Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erhanyaylali1&repo=Socialony-SocialMedia)](https://github.com/erhanyaylali1/Socialony-SocialMedia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erhanyaylali1&repo=blog-post-client)](https://github.com/erhanyaylali1/blog-post-client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erhanyaylali1&repo=wallet-client)](https://github.com/erhanyaylali1/wallet-client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erhanyaylali1&repo=Socialony-SocialMedia)](https://github.com/erhanyaylali1/Socialony-SocialMedia)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erhanyaylali1&repo=Restaurant-Review-Client)](https://github.com/erhanyaylali1/Restaurant-Review-Client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erhanyaylali1&repo=uniHub-Client)](https://github.com/erhanyaylali1/uniHub-Client)
 -------------------

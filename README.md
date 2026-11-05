@@ -3,10 +3,9 @@
 ``` typescript
 
 ABOUT ME
-I am 26 years old, full stack developer. I am developing web applications, optimizing cloud operations. 
+I am 28 years old, full stack developer. I am developing web applications, optimizing cloud operations. 
   
-- 🔭 I’m currently working on React JS
-- 🌱 I’m currently learning Next JS
+- 🔭 I’m currently working on React JS and Angular
 
 My Skills:
  - Javascript
